@@ -11,6 +11,11 @@ type Lover and click send
 continue following the instructions
 
 
+NB 
+ * database name is onfonsimulation .
+ * located in the sql folder 
+
+
 
 Assignment 2
 
@@ -18,3 +23,5 @@ done in Php html and css
 
 url localhost/lover/grid.php
 
+
+Thank you Good Luck  By Wandera Timothy
