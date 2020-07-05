@@ -1,0 +1,20 @@
+Assignmet 1
+
+done in php and javascript
+
+url localhost/lover
+
+set your phone number in the Phone input feild
+
+type Lover and click send 
+
+continue following the instructions
+
+
+
+Assignment 2
+
+done in Php html and css
+
+url localhost/lover/grid.php
+
